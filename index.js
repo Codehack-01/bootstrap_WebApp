@@ -1,1 +1,5 @@
-// This project has no external javascript written in it
+function myfunction() {
+    var element = document.body;
+    element.dataset.bsTheme =
+    element.dataset.bsTheme == "light" ? "dark" : "light";
+}
