@@ -30,8 +30,8 @@ body::before {
 
 /* Lines of the Toggler */
 .toggler-icon{
-  width: 30px;
-  height: 3px;
+  width: 25px;
+  height: 2px;
   
   background-color: #e74c3c;
   display: block;
@@ -40,8 +40,9 @@ body::before {
 
 /* Adds Space between the lines */
 .middle-bar{
-  margin: 2px auto;
-  /* margin: 5px auto; */
+  margin: 7px ; 
+  /* margin: 5px auto;*/
+  
   
   color: #fff;
 }
